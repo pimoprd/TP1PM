@@ -37,4 +37,3 @@ fig_LC50_Kow_reg = df %>%
 
 ggsave("outputs/figs/fig_LC50_Kow_reg.png", fig_LC50_Kow_reg)
 
-#second commit pm
